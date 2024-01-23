@@ -576,7 +576,8 @@ footer p {
     display: none;
   }
    .content .right-side {
-    width: 100%;
+    width: 90%;
     margin-left: 0;
+    margin-right:1rem;
   }
 }
