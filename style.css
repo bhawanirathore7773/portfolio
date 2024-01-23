@@ -548,10 +548,6 @@ footer p {
 }
 
 @media (max-width: 950px) {
-  .container {
-    width: 90%;
-    padding: 30px 40px 40px 35px;
-  }
   .content .right-side {
     width: 75%;
     margin-left: 55px;
