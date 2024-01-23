@@ -514,10 +514,10 @@ footer p {
 .right-side .input-box textarea {
   height: 100%;
   width: 100%;
-  border: none;
+  border:rgb(53, 53, 53) 0.1rem solid;;
   outline: none;
   font-size: 16px;
-  background: #f0f1f8;
+  background: #fff;
   border-radius: 6px;
   padding: 0 15px;
   resize: none;
