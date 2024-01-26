@@ -48,6 +48,9 @@
 }
 
 @media screen and (max-width: 600px) {
+  #mobile-nav{
+    height:10vh;
+  }
   footer {
     height: 40vh;
   }
