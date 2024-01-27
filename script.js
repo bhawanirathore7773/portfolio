@@ -5,6 +5,7 @@ function toggleMenu() {
   icon.classList.toggle("open");
 }
 
+
 // for contact form
 
 const form = document.querySelector('form');
@@ -100,3 +101,4 @@ form.addEventListener("submit", (e)=>{
 
     
 });
+
