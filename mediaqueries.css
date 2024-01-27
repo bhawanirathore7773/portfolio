@@ -19,6 +19,16 @@
   #mobile-nav {
     display: flex;
   }
+  #mobile-nav .logo{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    
+  }
+  #mobile-nav .logo img{
+    width:20vh;
+    
+  }
   #experience,
   .experience-details-container {
     margin-top: 2rem;
