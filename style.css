@@ -581,3 +581,26 @@ footer p {
     margin-right:1rem;
   }
 }
+
+.input-box{
+  margin:10px 0px 10px 0px;
+}
+
+.input-box .error-txt{
+  font-size: 14.5px;
+  text-align: left;
+  color:#d93025;
+  margin:-2px 0 10px 2px;
+  display: none;
+
+}
+
+/* styling when blank form submit */
+
+.input-box.error .item{
+  border-color: #d93025;
+}
+
+.input-box.error .error-txt{
+  display: block;
+}
