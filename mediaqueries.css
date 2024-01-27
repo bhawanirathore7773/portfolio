@@ -51,6 +51,9 @@
   #mobile-nav{
     height:10vh;
   }
+  #mobile-nav .logo img{
+    width:20vh;
+  }
   footer {
     height: 40vh;
   }
