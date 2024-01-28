@@ -389,7 +389,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 90vh;
   margin-bottom: 5rem;
 }
 #contact .section__text__p1{
@@ -603,4 +603,8 @@ footer p {
 }
 .right-side .input-box.error{
   margin:30px 0;
+}
+
+#contact{
+  height: fit-content;
 }
