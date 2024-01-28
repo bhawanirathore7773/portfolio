@@ -116,4 +116,7 @@
   .text-container {
     text-align: justify;
   }
+  .right-side .input-box.error{
+    margin:30px 0;
+  }
 }

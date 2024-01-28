@@ -601,3 +601,6 @@ footer p {
 .input-box.error .error-txt{
   display: block;
 }
+.right-side .input-box.error{
+  margin:30px 0;
+}
